@@ -1,0 +1,44 @@
+.parent-div{
+    text-align: center;
+    width: 70%; 
+    padding: 15%;
+}
+
+.user-in, .handle-counter { overflow: hidden; 
+  padding: 20px;     
+}
+
+.user-in input{
+    margin: 5px;
+}
+
+.handle-counter .counter-one,  .handle-counter .counter-two, .handle-counter           .counter-three {
+  float: left;
+  text-align: center;
+}
+
+.handle-counter .counter-one,  .handle-counter .counter-two,.handle-counter .counter-three 
+{ text-align: center; 
+    width: 60px;
+    height: 56px;
+}
+
+.btn {
+  padding: 6px 12px;
+  border: 1px solid #B24242; 
+}
+
+.btn-one { 
+    background-color:  #B24242; 
+    border-radius: 0px 8px 8px 0px;
+}
+    
+.btn-two { background-color:  #FFFFFF ;
+color: #B24242;
+border-radius: 8px 0px 0px 8px;
+}
+
+.btn-three{
+    color :#B24242;
+}
+
