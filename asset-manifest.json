@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Increment_Decrement_Counter/static/css/main.ecc03b58.chunk.css",
+    "main.js": "/Increment_Decrement_Counter/static/js/main.f9636a99.chunk.js",
+    "main.js.map": "/Increment_Decrement_Counter/static/js/main.f9636a99.chunk.js.map",
+    "runtime-main.js": "/Increment_Decrement_Counter/static/js/runtime-main.8752ab15.js",
+    "runtime-main.js.map": "/Increment_Decrement_Counter/static/js/runtime-main.8752ab15.js.map",
+    "static/js/2.406cb877.chunk.js": "/Increment_Decrement_Counter/static/js/2.406cb877.chunk.js",
+    "static/js/2.406cb877.chunk.js.map": "/Increment_Decrement_Counter/static/js/2.406cb877.chunk.js.map",
+    "static/js/3.b110bf36.chunk.js": "/Increment_Decrement_Counter/static/js/3.b110bf36.chunk.js",
+    "static/js/3.b110bf36.chunk.js.map": "/Increment_Decrement_Counter/static/js/3.b110bf36.chunk.js.map",
+    "index.html": "/Increment_Decrement_Counter/index.html",
+    "static/css/main.ecc03b58.chunk.css.map": "/Increment_Decrement_Counter/static/css/main.ecc03b58.chunk.css.map",
+    "static/js/2.406cb877.chunk.js.LICENSE.txt": "/Increment_Decrement_Counter/static/js/2.406cb877.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8752ab15.js",
+    "static/js/2.406cb877.chunk.js",
+    "static/css/main.ecc03b58.chunk.css",
+    "static/js/main.f9636a99.chunk.js"
+  ]
+}
